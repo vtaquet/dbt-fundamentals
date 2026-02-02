@@ -1,3 +1,4 @@
 {
-    "dbt.dbtIntegration": "fusion"
+    "dbt.dbtIntegration": "fusion",
+    "dbt.enableNewLineagePanel": true
 }
